@@ -1,8 +1,8 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,100:FD1D1D)
 
-## Hi, saya Budi 👋
-Backend developer yang suka bikin tools produktivitas
+## Hi, i'm Sakha 👋
+Software developer
 
 <!-- Badge tech stack -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
