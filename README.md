@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hei, saya Sakha!</h1>
+  <h1>👋 Hei, i'm Sakha!</h1>
   <h3>Passionate about building scalable solutions and solving complex problems through code. Constantly exploring new technologies and optimizing systems for better performance.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Sakhaika&color=58a6ff&style=flat-square" alt="views"/> <a href="https://instagram.com/Sakhaika_"><img src="https://img.shields.io/badge/@Sakhaika_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://linkedin.com/in/sakhaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,10 +8,9 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 📍 Berdomisili di **Jakarta, Indonesia**
-- 🔭 Sedang mengerjakan **Building a strong architectural foundation by mastering the fundamentals of multiple programming languages. Dedicated to understanding the core logic that powers modern technology.**
-- 💬 Tanya saya tentang apapun
-- 📫 Hubungi: **sakha00119@gmail.com**
+- 📍 **Jakarta, Indonesia**
+- 🔭 **Building a strong architectural foundation by mastering the fundamentals of multiple programming languages. Dedicated to understanding the core logic that powers modern technology.**
+- 📫 **sakha00119@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +39,7 @@
   <img alt="snake" src="https://raw.githubusercontent.com/Sakhaika/Sakhaika/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-## 📬 Hubungi Saya
+## 📬 Contact me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakha00119@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakhaik)
