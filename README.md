@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,100:FD1D1D)
 
-<!--
-**Sakhaika/Sakhaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, saya Budi 👋
+Backend developer yang suka bikin tools produktivitas
 
-Here are some ideas to get you started:
+<!-- Badge tech stack -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats (2 kolom) -->
+<img src="https://github-readme-stats.vercel.app/api?username=NAMA" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA" height="160"/>
