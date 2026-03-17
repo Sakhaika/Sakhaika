@@ -6,7 +6,7 @@
 
 </div>
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About me
 
 - 📍 **Jakarta, Indonesia**
 - 🔭 **Building a strong architectural foundation by mastering the fundamentals of multiple programming languages. Dedicated to understanding the core logic that powers modern technology.**
