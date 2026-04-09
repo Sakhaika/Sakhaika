@@ -31,14 +31,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sakhaika&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
-## 🐍 Kontribusi
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakhaika/Sakhaika/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakhaika/Sakhaika/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Sakhaika/Sakhaika/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 ## 📬 Contact me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakha00119@gmail.com)
