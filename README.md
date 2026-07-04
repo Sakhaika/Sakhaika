@@ -27,10 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhaika&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakhaika&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
 ## 📬 Contact me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakha00119@gmail.com)
