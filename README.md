@@ -2,7 +2,7 @@
   <h1>👋 Hei, i'm Sakha!</h1>
   <h3>Passionate about building scalable solutions and solving complex problems through code. Constantly exploring new technologies and optimizing systems for better performance.</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=Sakhaika&color=58a6ff&style=flat-square" alt="views"/> <a href="https://instagram.com/Sakhaika_"><img src="https://img.shields.io/badge/@Sakhaika_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://linkedin.com/in/sakhaik&logo=linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sakhaika&color=58a6ff&style=flat-square" alt="views"/> <a href="https://instagram.com/Sakhaika_"><img src="https://img.shields.io/badge/@Sakhaika_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://linkedin.com/in/sakhaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
